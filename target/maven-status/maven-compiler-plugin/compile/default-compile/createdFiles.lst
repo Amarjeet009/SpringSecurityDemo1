@@ -1,0 +1,5 @@
+com\amarj\springsecurity\controller\HelloWordController.class
+com\amarj\springsecurity\configuration\HelloWorldConfiguration.class
+com\amarj\springsecurity\configuration\SecurityConfiguration.class
+com\amarj\springsecurity\configuration\SpringMvcInitializer.class
+com\amarj\springsecurity\configuration\SecurityWebApplicationInitialializer.class
